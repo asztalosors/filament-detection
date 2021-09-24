@@ -43,7 +43,7 @@ target/
 .env
 
 ### EventIdent ###
-signal/
+data/
 
 ### Travis CI ###
 .cache/
